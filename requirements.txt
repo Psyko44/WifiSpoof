@@ -1,0 +1,2 @@
+plyer==2.0.0  # Remplacez par la version spécifique de plyer que vous utilisez
+smtplib  # Utilise la dernière version disponible

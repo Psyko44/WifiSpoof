@@ -22,7 +22,7 @@ This Python script provides functionalities to monitor Wi-Fi networks, detect fr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/wifi-monitor.git
+   git clone https://github.com/Psyko44/wifi-monitor.git
    cd wifi-monitor
    ```
 
